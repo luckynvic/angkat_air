@@ -1,0 +1,9 @@
+Win32/
+cartoon*
+*.mp3
+*.local
+*.res
+*.png
+bottle*
+*.identcache
+__history/
